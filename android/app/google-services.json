@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "965357656203",
+    "project_id": "passwordmanager-fcb8b",
+    "storage_bucket": "passwordmanager-fcb8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965357656203:android:4ec989a66cd0d118f4dc8e",
+        "android_client_info": {
+          "package_name": "com.example.PasswordManager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965357656203-85v946eeb5833eaatd1m0tvqf85tae2g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.PasswordManager",
+            "certificate_hash": "2547903450ef6b2337df7a2ea5495f0d6acff35b"
+          }
+        },
+        {
+          "client_id": "965357656203-ut78h52iaslfgfvu0lif29a43n07h3qp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmrnL4OCoBBmsKOa8FJ9EgVqaIO0riGB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965357656203-ut78h52iaslfgfvu0lif29a43n07h3qp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
